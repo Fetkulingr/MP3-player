@@ -10,7 +10,6 @@ import time
 from pygame import mixer
 # Создание главного окна
 root = tk.ThemedTk()
-root.iconbitmap("D:\MP3-player\icons\green_Icon.ico")
 root.resizable(width=False, height=False)
 root["bg"]="#008000"
 # Настройка темы для плеера
