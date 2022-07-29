@@ -5,4 +5,4 @@ MP3-плеер созданный на языке Python <br />
 pygame 2.1.2 <br />
 mutagen 1.45.1 <br />
 Для запуска программы нужно запустить файл "MP3-player.exe" <br />
-
+При наличии ошибки «api ms win crt runtime l1 1 0 dll» необходимо установить компонент Visual C++: https://docs.microsoft.com/ru-RU/cpp/windows/latest-supported-vc-redist?view=msvc-170
