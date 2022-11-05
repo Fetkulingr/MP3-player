@@ -6,5 +6,6 @@ pygame 2.1.2 <br />
 mutagen 1.45.1 <br />
 ttkthemes 3.2.2 <br />
 Благодаря библиотеки mutagen данный проигрыватель кроме формата MP3 поддерживает такие форматы аудиофайлов как: ASF, FLAC, MP4, Monkey's Audio, Musepack, Ogg Opus, Ogg FLAC, Ogg Speex, Ogg Theora, Ogg Vorbis, True Audio, WavPack, OptimFROG и AIFF.<br />
-Для запуска программы нужно запустить файл "MP3-player.exe" <br />
+# Использование
+Для запуска программы нужно запустить файл "MP3-player.exe"<br />
 При наличии ошибки «api ms win crt runtime l1 1 0 dll» необходимо установить компонент Visual C++: https://docs.microsoft.com/ru-RU/cpp/windows/latest-supported-vc-redist?view=msvc-170
