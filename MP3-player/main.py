@@ -3,7 +3,7 @@ This module make
 
 Athor: Fetkulin Grigory, Fetkulin.G.R@yandex.ru
 Starting 2022/07/24
-Ending 2024//
+Ending 2024/08/22
 
 '''
 from tkinter import filedialog
