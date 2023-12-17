@@ -1,3 +1,11 @@
+'''
+This module make
+
+Athor: Fetkulin Grigory, Fetkulin.G.R@yandex.ru
+Starting 2022/07/24
+Ending 2024//
+
+'''
 from tkinter import filedialog
 from tkinter import ttk
 import tkinter.messagebox as mb
