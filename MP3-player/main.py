@@ -1,5 +1,5 @@
 '''
-This module make
+This program make
 
 Athor: Fetkulin Grigory, Fetkulin.G.R@yandex.ru
 Starting 2022/07/24
